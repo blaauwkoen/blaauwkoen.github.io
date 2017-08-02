@@ -1,0 +1,105 @@
+body {
+font-family: 'Source Sans Pro', sans-serif;
+font-weight: 600;
+color: #4D4D4D;
+margin: 0;
+    background-color: white;
+}
+
+.card {
+    margin-bottom: 50px;
+    max-height: 600px;
+    max-width: 915px;
+    background-color: white;
+    background: #FFFFFF;
+ float: none;
+}
+h1 {
+    font-weight: 700;
+    margin: 0;
+}
+h4 {
+    color: #959595;
+    margin: 0;
+}
+.avatar {
+    margin: 0px;
+    max-height: 430px;
+    max-width: 430px;
+    width: 100%;
+    height: auto;
+}
+.names {
+   margin: 15px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.date {
+    margin: 0px;
+}
+.titles {
+  margin-left: 15px;  
+}
+.italic {
+    text-align: right;
+    text-decoration: italic;
+    color: #7D7D7D;
+    margin-top: 5px;
+}
+.title {
+    font-size: 20px;
+}
+.up { margin-top: 20px;}
+.soclink {margin: 2px;}
+.socials {margin-top: 5px;margin-bottom: 50px;}
+a {
+    text-decoration: none;
+    color: #4D4D4D;
+}
+.fourcn {color: #4A90E2;}
+.biq {color: #000000;}
+.aplus {color: #ff006c;}
+.sketch {color: #FFAA00;}
+.ai {color: #FF7400;}
+.ps {color: #00CFFF;}
+.ae {color: #E479FF;}
+.pr {color: #FA36FF;}
+.xd {color: #FE00BD;}
+.mail {color: #00c3fe;}
+a:hover {
+    opacity: 0.8;
+}
+.emoji {
+   margin: 20px;
+height: 20px;
+    padding-left: 40%;
+    margin-top: 40px;
+}
+
+
+
+@media only screen and (min-width: 768px) {
+    .card{
+        margin-left: 10% !important;
+        margin-right: 10% !important;
+        margin-top: 50px;
+background-color: #FFFFFF;
+box-shadow: 0 2px 25px 0 rgba(0,0,0,0.50);}
+    body{background-color: #1CACFD;}
+}
+@media only screen and (min-width: 1024px) {
+    .card{
+        margin-left: 20% !important;
+        margin-right: 20% !important;
+background-color: #FFFFFF;
+box-shadow: 0 2px 25px 0 rgba(0,0,0,0.50);}
+    body{background-color: #1CACFD;}
+}
+@media only screen and (min-width: 1224px) {
+    .card{
+        margin-left: 30% !important;
+        margin-right: 25% !important;
+background-color: #FFFFFF;
+box-shadow: 0 2px 25px 0 rgba(0,0,0,0.50);}
+    body{background-color: #1CACFD;}
+}
