@@ -72,10 +72,8 @@
       <a href="https://twitter.com/blaauwkoen1" class="insta soclink"><img class="soclink" src="img/social/Twitter.png"></a>
       <a href="https://snapchat.com/add/blaauwkoen" class="twitter soclink"><img class="soclink" src="img/social/Snapchat.png"></a>
       <a href="https://facebook.com/blaauwkoen" class="facebook soclink"><img class="soclink" src="img/social/Facebook.png"></a>
-      <a href="https://medium.com/@blaauwkoen" class="medium soclink"><img class="soclink" src="img/social/Medium.png"></a>
       <a href="https://www.linkedin.com/in/blaauwkoen/" class="linkedin soclink"><img class="soclink" src="img/social/LinkedIN.png"></a>
       <a href="https://www.spotify.com/user/blaauwkoen" class="spotify soclink"><img class="soclink" src="img/social/Spotify.png"></a>
-       <a href="https://www.last.fm/user/blaauwkoen" class="lastfm soclink"><img class="soclink" src="img/social/Lastfm.png"></a>
      </div></div></div>
   </div></div>
 </div></body>

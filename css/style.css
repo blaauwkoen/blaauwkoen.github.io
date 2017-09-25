@@ -8,7 +8,7 @@ margin: 0;
 
 .card {
     margin-bottom: 50px;
-    max-height: 600px;
+ /* max-height: 700px; */
     max-width: 915px;
     background-color: white;
     background: #FFFFFF;
@@ -50,7 +50,8 @@ h4 {
     font-size: 20px;
 }
 .up { margin-top: 20px;}
-.soclink {margin: 2px;}
+.soclink {margin: 2px;
+height: 34px;}
 .socials {margin-top: 5px;margin-bottom: 50px;}
 a {
     text-decoration: none;
