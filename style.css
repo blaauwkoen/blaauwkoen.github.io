@@ -17,9 +17,10 @@
   height: 95%;
   margin-top: 0px;
   border: 1px none #000;
-  background-image: "bg.jpg";
-  background-position: 0px 0px;
-  background-size: auto;
+  background-image: url(bg.jpg);
+    color: black;
+    background-size: cover;
+    background-position: bottom;
   box-shadow: 0 0 0 -25px #000;
   font-size: 30px;
 }
